@@ -1,11 +1,11 @@
 {
-  "alimenti":[
-  {
-    "nome":"Pesca",
-    "calorie":24,
-    "proteine":2,
-    "grassi":["saturi":0,"insaturi":0],
-    "carboidrati":6
-  }
-]
+  "alimenti": [
+    { 
+      "nome":"Pesca",
+      "calorie":24,
+      "proteine":2,
+      "grassi":["saturi":0,"insaturi":0],
+      "carboidrati":6
+    }
+  ]
 }
