@@ -1,7 +1,7 @@
 {
-  "Nome":"Pesca",
-  "Calorie":24,
-  "Proteine":2,
-  "Grassi":0,
-  "Carboidrati":6
+  "nome":"Pesca",
+  "calorie":24,
+  "proteine":2,
+  "grassi":0,
+  "carboidrati":6
 }
