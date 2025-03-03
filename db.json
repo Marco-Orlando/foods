@@ -6,6 +6,20 @@
       "proteine":2,
       "grassi":0,
       "carboidrati":6
+    },
+    { 
+      "nome":"Pera",
+      "calorie":24,
+      "proteine":2,
+      "grassi":0,
+      "carboidrati":6
+    },
+    { 
+      "nome":"Mela",
+      "calorie":24,
+      "proteine":2,
+      "grassi":0,
+      "carboidrati":6
     }
   ]
 }
