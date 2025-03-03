@@ -2,6 +2,6 @@
   "nome":"Pesca",
   "calorie":24,
   "proteine":2,
-  "grassi":0,
+  "grassi":["saturi":0,"insaturi":0],
   "carboidrati":6
 }
