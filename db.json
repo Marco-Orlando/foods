@@ -1,4 +1,5 @@
-"alimenti":[
+{
+  "alimenti":[
   {
     "nome":"Pesca",
     "calorie":24,
@@ -6,4 +7,5 @@
     "grassi":["saturi":0,"insaturi":0],
     "carboidrati":6
   }
-],
+]
+}
