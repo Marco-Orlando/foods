@@ -1,1 +1,10 @@
-
+{
+  "Nome":"Pesca",
+  "Calorie":24,
+  "Proteine":2,
+  "Grassi":[
+    "Saturi":0.1,
+    "Insaturi":0
+  ],
+  "Carboidrati":6
+}
